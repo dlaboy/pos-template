@@ -78,7 +78,7 @@ function Home() {
       {/* <div class="overlay"></div> */}
         <div className="">
             <h1 className='fw-bold text-light'>
-            Oasis POS System
+            POS System Template
             </h1>
         </div>
 
