@@ -1,0 +1,45 @@
+.btn-outline-secondary.active,.btn-outline-secondary:active{
+    background-color: rgb(0, 76, 255) !important;
+}
+.btn-outline-secondary:hover, .btn-outline-secondary:focus{
+    background-color:inherit !important;
+    color: rgb(128, 128, 128) !important;
+
+}
+.btn-outline-secondary.active:hover,.btn-outline-secondary:active:hover{
+    background-color: rgb(0, 76, 255) !important;
+    color: white !important;
+}
+.terminal-screen,.terminal-screen-2{
+    width: 100vw;
+}
+.order-screen-toggler{
+    display: none;
+  }
+@media (max-width: 768px) {
+    .type-text{
+     display: none;
+    }
+    /* .terminal-screen,.terminal-screen-2{
+        width: 100vw;
+    } */
+    /* .order-screen-toggler{
+        display: flex;
+      }
+    */
+   }
+   /* @media (min-width:769px) and (max-width: 991px) {
+    .order-screen-toggler{
+        display: none;
+      }
+
+
+} */
+
+/* Larger devices (desktops, more than 992px) */
+/* @media (min-width: 992px) {
+    .order-screen-toggler{
+        display: none;
+      }
+ 
+} */
